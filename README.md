@@ -3,7 +3,7 @@
 
 Selamat datang di program Encoder & Decoder!
 
-![Encoder and Decoder Preview](weeeeee.png)
+![Encoder and Decoder Preview](weeeeee.jpg)
 
 ## Fitur
 - Caesar Cipher
